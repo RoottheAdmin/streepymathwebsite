@@ -40,4 +40,8 @@ ul {
 body {
     background-color: #1E2239;
 }
-.button1 {background-color: #4CAF50;}
+.button1 {
+    background-color: #4CAF50;
+    font-size: 8px;
+    padding: 10px 24px;
+}
