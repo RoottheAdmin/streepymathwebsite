@@ -1,0 +1,40 @@
+<html>
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <title>Measures of Central Tendency</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <center>
+        <br>
+        <br>
+        <br>
+        <a href=index.html>
+            <img src=streepymath.png width=105 height=105 href=index.html>
+        </a>
+    </center>
+</head>
+<body>
+    <font face=Arial>
+        <ul>
+            <li>
+                <a href=index.html>Home</a>
+                </li>
+                <li>
+                <a href=unit1-2.html>Units 1-2</a>
+            </li>
+        </ul>
+        <br>
+        <br>
+        <br>
+        <h1>Measures of Central Tendency</h1>
+        <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh2kzJY5-Xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </center>
+</body>
+
+</html>
